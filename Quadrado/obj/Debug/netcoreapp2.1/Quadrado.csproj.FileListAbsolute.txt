@@ -1,0 +1,11 @@
+/Users/aluno/Projects/Quadrado/Quadrado/obj/Debug/netcoreapp2.1/Quadrado.csprojAssemblyReference.cache
+/Users/aluno/Projects/Quadrado/Quadrado/obj/Debug/netcoreapp2.1/Quadrado.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/Quadrado/Quadrado/obj/Debug/netcoreapp2.1/Quadrado.AssemblyInfoInputs.cache
+/Users/aluno/Projects/Quadrado/Quadrado/obj/Debug/netcoreapp2.1/Quadrado.AssemblyInfo.cs
+/Users/aluno/Projects/Quadrado/Quadrado/bin/Debug/netcoreapp2.1/Quadrado.deps.json
+/Users/aluno/Projects/Quadrado/Quadrado/bin/Debug/netcoreapp2.1/Quadrado.runtimeconfig.json
+/Users/aluno/Projects/Quadrado/Quadrado/bin/Debug/netcoreapp2.1/Quadrado.runtimeconfig.dev.json
+/Users/aluno/Projects/Quadrado/Quadrado/bin/Debug/netcoreapp2.1/Quadrado.dll
+/Users/aluno/Projects/Quadrado/Quadrado/bin/Debug/netcoreapp2.1/Quadrado.pdb
+/Users/aluno/Projects/Quadrado/Quadrado/obj/Debug/netcoreapp2.1/Quadrado.dll
+/Users/aluno/Projects/Quadrado/Quadrado/obj/Debug/netcoreapp2.1/Quadrado.pdb
